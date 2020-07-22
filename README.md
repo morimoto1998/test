@@ -1,2 +1,3 @@
 # test
 branchaだよ！
+branchBだよ！
